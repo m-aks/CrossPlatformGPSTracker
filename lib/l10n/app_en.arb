@@ -1,0 +1,19 @@
+{
+  "appName": "GPSTracker",
+  "loginForm": "Sign In",
+  "registerButton": "Sign Up",
+  "loginHint": "Login",
+  "firstnameHint": "Firstname",
+  "lastnameHint": "Lastname",
+  "emailHint": "Email",
+  "passwordHint": "Password",
+  "date": "Date: ",
+  "time": "Time: ",
+  "distance": "Distance: ",
+  "avgSpeed": "Average speed: ",
+  "speed": "Speed: ",
+  "route": "Route",
+  "kmh": " km/h",
+  "meter": " m",
+  "kilometer": " km"
+}

@@ -1,0 +1,19 @@
+{
+  "appName": "GPSTracker",
+  "loginForm": "Войти",
+  "registerButton": "Регистрация",
+  "loginHint": "Логин",
+  "firstnameHint": "Имя",
+  "lastnameHint": "Фамилия",
+  "emailHint": "Эл. адрес",
+  "passwordHint": "Пароль",
+  "date": "Дата: ",
+  "time": "Время: ",
+  "distance": "Дистанция: ",
+  "speed": "Скорость: ",
+  "avgSpeed": "Средняя скорость: ",
+  "route": "Путь",
+  "kmh": " км/ч",
+  "meter": " м",
+  "kilometer": " км"
+}
